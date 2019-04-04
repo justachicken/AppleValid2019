@@ -2,7 +2,7 @@
 
 Windows:
   - Downlaod Gitbash
-  - bash checker.sh
+  - bash check.sh
 
 Linux:
-  - bash checker.sh
+  - bash check.sh
